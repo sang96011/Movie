@@ -14,6 +14,8 @@ E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Movie.dll.config
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Movie.dll
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Movie.pdb
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Antlr3.Runtime.dll
+E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\EntityFramework.dll
+E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\EntityFramework.SqlServer.dll
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Microsoft.Web.Infrastructure.dll
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Newtonsoft.Json.dll
@@ -25,6 +27,8 @@ E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\System.Web.WebPages.Deployment.dll
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\System.Web.WebPages.dll
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\System.Web.WebPages.Razor.dll
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\WebGrease.dll
+E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\EntityFramework.xml
+E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\EntityFramework.SqlServer.xml
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\System.Web.Helpers.xml
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\System.Web.Mvc.xml
@@ -35,5 +39,6 @@ E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\System.Web.WebPages.Deployment.xml
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\System.Web.WebPages.Razor.xml
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Antlr3.Runtime.pdb
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Newtonsoft.Json.xml
+E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.dll
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.pdb
