@@ -39,6 +39,6 @@ E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\System.Web.WebPages.Deployment.xml
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\System.Web.WebPages.Razor.xml
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Antlr3.Runtime.pdb
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Newtonsoft.Json.xml
-E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.dll
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.pdb
+E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache
