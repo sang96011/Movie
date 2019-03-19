@@ -46,3 +46,4 @@ E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.Migrations.Initial.reso
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.csproj.GenerateResource.Cache
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.Migrations.Rating.resources
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.Migrations.Rating1.resources
+E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.Migrations.DataAnnotations.resources

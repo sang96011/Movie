@@ -6,6 +6,10 @@
 /// create database and run Seed method
 /// + update-database
 ///
+/// Validation
+/// + add-migration DataAnnotations -> update-database
+///
+/// 
 /// </summary>
 
 namespace Movie.Migrations
