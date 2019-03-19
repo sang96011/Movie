@@ -18,6 +18,15 @@ namespace Movie.Models
         public DateTime ReleaseDate { get; set; }
         public string Genre { get; set; }
         public decimal Price { get; set; }
+
+        /// <summary>
+        /// add new property in model
+        /// + update Controller, the binding white list for Create and Edit method
+        /// + update View
+        /// + Run PM> add-migration Rating -> update-database
+        /// 
+        /// </summary>
+        public string Rating { get; set; }
     }
 
     public class FilmDBContext : DbContext

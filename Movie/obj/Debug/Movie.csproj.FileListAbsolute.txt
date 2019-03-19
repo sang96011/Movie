@@ -42,3 +42,7 @@ E:\Coding\csharp\ASP NET MVC\Movie\Movie\bin\Newtonsoft.Json.xml
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.dll
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.pdb
 E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache
+E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.Migrations.Initial.resources
+E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.csproj.GenerateResource.Cache
+E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.Migrations.Rating.resources
+E:\Coding\csharp\ASP NET MVC\Movie\Movie\obj\Debug\Movie.Migrations.Rating1.resources
